@@ -80,7 +80,10 @@
 
     <!-- Top menu item -->
     
-    <menuitem id="main_openacademy_menu" name="Open Academy" />
+    <menuitem 
+      id="main_openacademy_menu" 
+      name="Open Academy"
+      web_icon="openacademy,static/description/icon.png" />
     
     <!-- menu categories -->
     
